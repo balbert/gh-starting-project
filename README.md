@@ -1,2 +1,3 @@
-# Udemy GitHub Actions - The Complete Guide
-## Starting Project
+# Udemy Class
+## GitHub Actions - The Complete Guide
+### Starting Project
